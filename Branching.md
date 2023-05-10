@@ -12,6 +12,7 @@ git checkout -b ＜new-branch＞ ＜existing-branch＞
 
 git checkout ＜branchname＞
 
-
+Delete a branch:
+git branch -D  <name>
 
 ----------------------------------------------------------------------------------------------
